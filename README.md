@@ -1,9 +1,9 @@
 # Credit_Risk_Analysis
 Python/Pandas, Jupyter Notebook
 
-![Balanced Random Classifier Documentation](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.BalancedRandomForestClassifier.html)
+[Balanced Random Classifier Documentation](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.BalancedRandomForestClassifier.html)
 
-![Easy Ensemble Classifier Documentation](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.EasyEnsembleClassifier.html)
+[Easy Ensemble Classifier Documentation](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.EasyEnsembleClassifier.html)
 
 ## Overview of Credit_Risk_Analysis
 #### This analysis was performed to simulate using various supervised machine learning models to predict credit risk with a dataset of various variables and their reported loan risk. The classes are unbalanced, as many factors contribute to whether a loan is considered "good" or "risky". 
